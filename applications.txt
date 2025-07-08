@@ -1,0 +1,18 @@
+Applications for DeepLearning
+
+Recommendations
+Translation
+Speech Recognition
+Computer Vision
+Natural Language Processing
+
+pytorch -> deep learning framework
+able to access deep learning models (torch hub, torchvision.models)
+https://paperswithcode.com/sota
+https://www.learnpytorch.io/00_pytorch_fundamentals/#exercises
+https://github.com/mrdbourke/pytorch-deep-learning/
+
+
+Neural Networks -> Inputs -> numerical encoding 
+-> learns representation -> representation outputs 
+-> outputs
